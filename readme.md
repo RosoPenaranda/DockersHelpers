@@ -4,5 +4,5 @@ Conjunto de dockerfiles y docker-compose para ayudar a construir una aplicación
 
 ## Contact
 
-[Roso Peñaranda](https://github.com/RosoPenaranda)
-[Jonathan Marin](https://github.com/Anceloth)
+- [Roso Peñaranda](https://github.com/RosoPenaranda)
+- [Jonathan Marin](https://github.com/Anceloth)
